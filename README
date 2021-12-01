@@ -1,3 +1,8 @@
+# Music gender classifcation
+This is the 2020-S2 COMP90049 playground for Assignment 2.
+
+In this project the task is to perform music genre classification. Test different classification algorithms, experiment with different features, and analyse your models through evaluation.
+
 The code is in a Jupyter Notebook that it is divided in two parts that can be run independently.
 The dependencies are:
 -Pandas, 
@@ -21,4 +26,4 @@ predict(model, test dataset transformed)
 Returns a list with predicted labels
 
 evaluate(prediction list, test labels)
-Returns a classification report includin Acuracy, presicion, recall and f1- scores for each class.
+Returns a classification report includin Accuracy, presicion, recall and f1- scores for each class.
