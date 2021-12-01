@@ -12,11 +12,10 @@ The dependencies are:
 -imblearn
 
 The first is the analysis part that leaded to build the final model and contains comments of the
- research process documented in the final paper, as other metrics.
+research process documented in the final paper, as other metrics.
 
 The second has the final train, predict and evaluate function requested in the specs.
 They uses as arguments the dataset provided in the specs to develop the model.
-
 
 
 train(train dataset, test dataset, train labels, test labels, random seed (default to 0)) 
