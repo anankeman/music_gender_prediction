@@ -1,4 +1,4 @@
-# Music gender classifcation
+## Music gender classifcation
 This is the 2020-S2 COMP90049 playground for Assignment 2.
 
 In this project the task is to perform music genre classification. Test different classification algorithms, experiment with different features, and analyse your models through evaluation.
