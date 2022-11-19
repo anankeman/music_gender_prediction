@@ -19,12 +19,12 @@ Returns a trained model and a transformed testing dataset.
 - `predict(model, test dataset transformed)`
 Returns a list with predicted labels
 
-`evaluate(prediction list, test labels)`
+- `evaluate(prediction list, test labels)`
 Returns a classification report includin Accuracy, presicion, recall and f1- scores for each class.
 
 ## The dependencies are:
--Pandas, 
--numpy, 
--matplotlib, 
--sklearn
--imblearn
+- Pandas, 
+- Numpy, 
+- Matplotlib, 
+- Sklearn
+- Imblearn
