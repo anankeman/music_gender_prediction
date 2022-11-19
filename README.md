@@ -32,4 +32,4 @@ Returns a classification report includin Accuracy, presicion, recall and f1- sco
 
 ## Research paper
 
-[Paper link](#)
+[Paper link](https://github.com/pippo-sci/music_gender_prediction/blob/main/Report/COMP90049-report.pdf)
